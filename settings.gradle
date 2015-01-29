@@ -1,0 +1,4 @@
+rootProject.name = 'groovy-vs-spring-test'
+
+include 'groovy-vs-spring-test-mvc'
+
